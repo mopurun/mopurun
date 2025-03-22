@@ -1,5 +1,5 @@
 ## 👋 commit test...
-
+もぷるんです。低レイヤとマイコンが好きで、電子工作とプログラミング(パソコンもマイコンも両方やる人)(マイコンはほぼアセンブリ言語)と電子部品収集が趣味の元電子系エンジニア。
 <!--
 **mopurun/mopurun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

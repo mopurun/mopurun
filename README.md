@@ -7,11 +7,11 @@
 ・電子工作（基板設計したりマイコン動かしたりいろいろ）
 
 ### ちょっと興味あるもの
-・C,C++,C#,Python,WebAssembly,Rust,JavaScript,VBA,bat
+・C ,C++ ,C# ,Python ,WebAssembly ,Rust ,JavaScript ,VBA ,bat
 
-・VHDL,SystemVerilog
+・VHDL ,SystemVerilog
 
-・HTML,CSS
+・HTML ,CSS
 
 ・情報セキュリティとかネットワークとかいろいろ
 

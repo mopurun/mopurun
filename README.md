@@ -3,11 +3,16 @@
 
 ## 興味あるもの
 ・アセンブリ言語(パソコンもマイコンも両方やる)
+
 ・電子工作（基板設計したりマイコン動かしたりいろいろ）
+
 ### ちょっと興味あるもの
 ・C,C++,C#,Python,WebAssembly,Rust,JavaScript,VBA,bat
+
 ・VHDL,SystemVerilog
+
 ・HTML,CSS
+
 ・情報セキュリティとかネットワークとかいろいろ
 
 <!--
